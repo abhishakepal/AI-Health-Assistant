@@ -16,7 +16,7 @@ This project aims to **bridge the gap between users and healthcare services** by
 ## 🔧 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AI-Health-Assistant.git
+   git clone https://github.com/abhishakepal/AI-Health-Assistant.git
    cd AI-Health-Assistant
 
 2. Create a virtual environment:
