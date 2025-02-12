@@ -45,9 +45,6 @@ Torch 🔥 (Deep Learning)
 📱 Mobile App Version
 👩‍⚕️ Integration with Live Doctors
 
-## 📝 License
-This project is open-source and available under the MIT License.
-
 ## 🤝 Contribution
 Contributions are welcome! Feel free to open an issue or pull request to improve this project.
 
