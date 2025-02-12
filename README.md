@@ -16,6 +16,41 @@ This project aims to **bridge the gap between users and healthcare services** by
 ## 🔧 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AI-Powered-Health-Assistant.git
-   cd AI-Powered-Health-Assistant
+   git clone https://github.com/your-username/AI-Health-Assistant.git
+   cd AI-Health-Assistant
+
+2. Create a virtual environment:
+   ```bash
+   python -m venv myenv
+   source myenv/bin/activate  # For MacOS/Linux
+   myenv\Scripts\activate     # For Windows
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Run the chatbot:
+   ```bash
+   streamlit run app.py
+
+## 📚 Technologies Used:
+Python 🐍
+Streamlit 🌐 (Web UI)
+Hugging Face Transformers 🤗 (Flan-T5 Model)
+NLTK 🔠 (Text Processing)
+Torch 🔥 (Deep Learning)
+
+## 📌 Future Enhancements:
+🎤 Voice Input Support
+🌍 Multi-Language Responses
+📱 Mobile App Version
+👩‍⚕️ Integration with Live Doctors
+
+## 📝 License
+This project is open-source and available under the MIT License.
+
+## 🤝 Contribution
+Contributions are welcome! Feel free to open an issue or pull request to improve this project.
+
+
 
