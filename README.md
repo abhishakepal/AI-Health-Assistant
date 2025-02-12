@@ -1,4 +1,3 @@
-# AI-Health-Assistant
 # AI-Powered Health Assistant 🤖🏥
 
 ## 📌 Project Overview
